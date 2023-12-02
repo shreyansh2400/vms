@@ -1,5 +1,5 @@
 # vms
-1. Nevigate to vms\Vendor_Management_System_project/settings.py file
+1. Navigate to vms\Vendor_Management_System_project/settings.py file
 in database change your database name and password
 
 2.Here i have attached vms.sql file just import in your database and 
